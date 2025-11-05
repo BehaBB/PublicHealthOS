@@ -205,6 +205,5 @@ Latest Release: v0.1.0-MVP
 
 System Validation: Run python run_validation.py
 
-*Repository actively maintained for EB-2 NIW petition evidence.*
 
 This repository demonstrates the technical execution capability and strategic planning behind the PublicHealthOS NIW petition. All development represents pre-market innovation with compliance-first architecture.

@@ -47,27 +47,27 @@ graph TB
     style D fill:#e8f5e8
     style G fill:#ffebee
 ```
-Flow Explanation:
+### Flow Explanation:
 
-Data Input: HIPAA-compliant patient data collection
+**Data Input**: HIPAA-compliant patient data collection
 
-AI Processing: Real-time risk prediction and intervention
+**AI Processing**: Real-time risk prediction and intervention
 
-Dual Output: Clinical outcomes + Regulatory compliance
+**Dual Output**: Clinical outcomes + Regulatory compliance
 
-National Impact: Cost savings and scalable deployment
+**National Impact**: Cost savings and scalable deployment
 
-Architecture Components:
+### Architecture Components:
 
-Data Input: EHR integration, CGM devices, patient SMS
+**Data Input**: EHR integration, CGM devices, patient SMS
 
-AI Core: Real-time risk prediction (92% accuracy target)
+**AI Core**: Real-time risk prediction (92% accuracy target)
 
-Intervention: Personalized SMS/App coaching
+**Intervention**: Personalized SMS/App coaching
 
-Compliance: Automated FDA eSTAR documentation
+**Compliance**: Automated FDA eSTAR documentation
 
-Outcomes: A1C reduction & complication prevention
+**Outcomes**: A1C reduction & complication prevention
 
 ## 🔬 Founder Qualifications & Technical Execution (Prong 2)
 ### Unique Cross-Domain Expertise

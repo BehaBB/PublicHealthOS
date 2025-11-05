@@ -18,15 +18,23 @@ PublicHealthOS directly confronts the **national diabetes emergency** affecting 
 
 ## 🏗️ System Architecture
 
+## 🏗️ System Architecture
+
 ```mermaid
 graph TB
-    A[Patient Data] --> B[AI Risk Engine]
-    B --> C[SMS Alerts]
-    B --> D[FDA Compliance]
-    C --> E[A1C Reduction]
+    A[Patient EHR/CGM Data] --> B[AI Risk Engine]
+    B --> C[Personalized SMS Alerts]
+    B --> D[FDA eSTAR Automation]
+    C --> E[A1C Reduction 1.0%]
     D --> F[510k Approval]
-    E --> G[Cost Savings]
-    F --> H[National Scale]
+    E --> G[$200M Healthcare Savings]
+    F --> H[National Scale 200K Patients]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style D fill:#e8f5e8
+    style G fill:#ffebee
+```
 Flow Explanation:
 
 Data Input: HIPAA-compliant patient data collection

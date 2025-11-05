@@ -101,4 +101,4 @@ The evidence demonstrates conclusive alignment with all three Dhanasar prongs:
 
 ---
 
-*Exhibits compiled December 2024 for EB-2 NIW Petition*
+*Exhibits  for EB-2 NIW Petition*

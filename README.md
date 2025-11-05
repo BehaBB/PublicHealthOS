@@ -32,6 +32,7 @@ graph TB
     style B fill:#f3e5f5
     style D fill:#e8f5e8
     style G fill:#ffebee
+```
 Flow Explanation:
 
 Data Input: HIPAA-compliant patient data collection
@@ -204,7 +205,6 @@ Latest Release: v0.1.0-MVP
 
 System Validation: Run python run_validation.py
 
-*Repository actively maintained for EB-2 NIW petition evidence.*
 
 This repository demonstrates the technical execution capability and strategic planning behind the PublicHealthOS NIW petition. All development represents pre-market innovation with compliance-first architecture.
-
+   

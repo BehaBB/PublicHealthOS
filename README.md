@@ -16,17 +16,29 @@ PublicHealthOS directly confronts the **national diabetes emergency** affecting 
 
 ---
 
-## 🏗️ System Architecture & Technical Flow
+## 🏗️ System Architecture
 
-### End-to-End Patient Management Pipeline
-Patient Data → AI Risk Engine → Personalized Interventions → Improved Outcomes
-↓ ↓ ↓ ↓
-EHR/CGM Sources Real-time Prediction SMS/App Alerts Clinical A1C Reduction
-↓ ↓ ↓ ↓
-Compliance Auto eSTAR Generation FDA 510(k) Submission National Scale Deployment
-↓ ↓ ↓ ↓
-HIPAA Security 60% Faster Approval 200,000 Patients $200M Annual Savings
+```mermaid
+graph TB
+    A[Patient EHR/CGM Data] --> B[AI Risk Engine]
+    B --> C[Personalized SMS Alerts]
+    B --> D[FDA eSTAR Automation]
+    C --> E[A1C Reduction 1.0%]
+    D --> F[510k Approval]
+    E --> G[$200M Healthcare Savings]
+    F --> H[National Scale 200K Patients]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style D fill:#e8f5e8
+    style G fill:#ffebee
+```
 
+**Flow Explanation:**
+- **Data Input**: HIPAA-compliant patient data collection
+- **AI Processing**: Real-time risk prediction and intervention
+- **Dual Output**: Clinical outcomes + Regulatory compliance
+- **National Impact**: Cost savings and scalable deployment
 text
 
 **Architecture Components:**

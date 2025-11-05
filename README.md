@@ -1,3 +1,4 @@
+markdown
 # PublicHealthOS - AI-Driven Diabetes Management
 **EB-2 NIW Strategic Initiative | National Healthcare Impact**
 
@@ -203,6 +204,7 @@ Live Repository: https://github.com/BehaBB/PublicHealthOS
 Latest Release: v0.1.0-MVP
 
 System Validation: Run python run_validation.py
+
 
 This repository demonstrates the technical execution capability and strategic planning behind the PublicHealthOS NIW petition. All development represents pre-market innovation with compliance-first architecture.
 

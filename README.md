@@ -87,7 +87,7 @@ graph TB
 - `550f576` - Synthetic data generation (`/data-synthetic/generate_data.py`)
 - `0910ed0` - System validation framework (`/run_validation.py`)
 - `4167910` - CI/CD workflows (`/.github/workflows/`)
-- `[хеш]` - Technical documentation (`/docs/`)
+- `482101a` - Technical documentation (`/docs/`)
 
 **Core AI Engine** → `/ai-engine`
 - `6e224e2` - `risk_prediction.py` - Diabetes complication forecasting

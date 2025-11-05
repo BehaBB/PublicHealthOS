@@ -18,8 +18,6 @@ PublicHealthOS directly confronts the **national diabetes emergency** affecting 
 
 ## 🏗️ System Architecture
 
-## 🏗️ System Architecture
-
 ```mermaid
 graph TB
     A[Patient EHR/CGM Data] --> B[AI Risk Engine]

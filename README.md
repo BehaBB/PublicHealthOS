@@ -85,7 +85,7 @@ graph TB
 - `28d1936` - Data processing pipelines (`/ai-engine/data_processor.py`) 
 - `0dc63de` - FDA eSTAR automation (`/compliance-fda/estar_template.py`)
 - `550f576` - Synthetic data generation (`/data-synthetic/generate_data.py`)
-- `[хеш]` - System validation framework (`/run_validation.py`)
+- `0910ed0` - System validation framework (`/run_validation.py`)
 - `[хеш]` - CI/CD workflows (`/.github/workflows/`)
 - `[хеш]` - Technical documentation (`/docs/`)
 
@@ -100,7 +100,7 @@ graph TB
 - `550f576` - `generate_data.py` - Synthetic diabetes dataset creation
 
 **Testing & Validation**
-- `[хеш]` - `run_validation.py` - Complete system validation
+- `0910ed0` - `run_validation.py` - Complete system validation
 - `[хеш]` - `test_basic.py` - Core functionality testing
 
 **Last updated**: November 2025 - Active development ongoing

@@ -84,7 +84,7 @@ graph TB
 - `6e224e2` - AI Risk Engine implementation (`/ai-engine/risk_prediction.py`)
 - `28d1936` - Data processing pipelines (`/ai-engine/data_processor.py`) 
 - `0dc63de` - FDA eSTAR automation (`/compliance-fda/estar_template.py`)
-- `[хеш]` - Synthetic data generation (`/data-synthetic/generate_data.py`)
+- `550f576` - Synthetic data generation (`/data-synthetic/generate_data.py`)
 - `[хеш]` - System validation framework (`/run_validation.py`)
 - `[хеш]` - CI/CD workflows (`/.github/workflows/`)
 - `[хеш]` - Technical documentation (`/docs/`)
@@ -97,7 +97,7 @@ graph TB
 - `0dc63de` - `estar_template.py` - Automated FDA documentation generation
 
 **Data Infrastructure** → `/data-synthetic`
-- `[хеш]` - `generate_data.py` - Synthetic diabetes dataset creation
+- `550f576` - `generate_data.py` - Synthetic diabetes dataset creation
 
 **Testing & Validation**
 - `[хеш]` - `run_validation.py` - Complete system validation

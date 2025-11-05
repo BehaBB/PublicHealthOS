@@ -46,6 +46,7 @@ graph TB
     style B fill:#f3e5f5
     style D fill:#e8f5e8
     style G fill:#ffebee
+
 Flow Explanation:
 
 Data Input: HIPAA-compliant patient data collection

@@ -69,7 +69,7 @@ Compliance: Automated FDA eSTAR documentation
 
 Outcomes: A1C reduction & complication prevention
 
-🔬 Founder Qualifications & Technical Execution (Prong 2)
+## 🔬 Founder Qualifications & Technical Execution (Prong 2)
 Unique Cross-Domain Expertise
 Management Strategy: Formal management education and business analysis background
 

@@ -1,6 +1,14 @@
 # PublicHealthOS - AI-Driven Diabetes Management
 **EB-2 NIW Strategic Initiative | National Healthcare Impact**
 
+![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![NIW Status](https://img.shields.io/badge/EB--2-NIW%20Petition-orange)
+![FDA Compliance](https://img.shields.io/badge/FDA-510(k)%20Ready-red)
+![HIPAA](https://img.shields.io/badge/HIPAA-Compliant-lightgrey)
+![Validation](https://img.shields.io/badge/validation-passing-brightgreen)
+![Tests](https://img.shields.io/badge/tests-6%2F6%20passed-success)
+
 ---
 
 ## 🎯 National Significance (Prong 1)

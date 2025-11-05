@@ -224,11 +224,11 @@ Current Release: v0.1.0-MVP
 | Version | Date | Key Milestones |
 |---------|------|----------------|
 | v1.0.0 | Nov 2025 | NIW Submission, Business Plan Complete |
-| v1.1.0 | Q1 2026 | MVP Development Start ($50k deployment) |
-| v1.2.0 | Q2 2026 | FDA Q-Sub Meeting, AI Engine v1.0 |
-| v1.3.0 | Q3 2026 | 2,500 Patient Pilot Launch |
-| v2.0.0 | Q1 2027 | FDA 510(k) Submission, 10,000 Patients |
-| v2.5.0 | Q3 2027 | National Scale: 50,000 Patients |
+| v1.1.0 | Feb 2026 | MVP Development Start ($50k deployment) |
+| v1.2.0 | Apr 2026 | FDA Q-Sub Meeting, AI Engine v1.0 |
+| v1.3.0 | May 2026 | 2,500 Patient Pilot Launch |
+| v2.0.0 | Oct 2026 | FDA 510(k) Submission |
+| v2.5.0 | Jan 2027 | 10,000 Patients Reached |
 
 ## 📞 Technical Support & Evidence
 **For additional technical evidence or demonstration**:

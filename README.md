@@ -86,7 +86,7 @@ graph TB
 - `0dc63de` - FDA eSTAR automation (`/compliance-fda/estar_template.py`)
 - `550f576` - Synthetic data generation (`/data-synthetic/generate_data.py`)
 - `0910ed0` - System validation framework (`/run_validation.py`)
-- `[хеш]` - CI/CD workflows (`/.github/workflows/`)
+- `4167910` - CI/CD workflows (`/.github/workflows/`)
 - `[хеш]` - Technical documentation (`/docs/`)
 
 **Core AI Engine** → `/ai-engine`

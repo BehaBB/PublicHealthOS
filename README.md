@@ -101,7 +101,7 @@ graph TB
 
 **Testing & Validation**
 - `0910ed0` - `run_validation.py` - Complete system validation
-- `[хеш]` - `test_basic.py` - Core functionality testing
+- `6a07060` - `test_basic.py` - Core functionality testing
 
 **Last updated**: November 2025 - Active development ongoing
 

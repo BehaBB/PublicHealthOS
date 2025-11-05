@@ -71,13 +71,13 @@ Outcomes: A1C reduction & complication prevention
 
 ## 🔬 Founder Qualifications & Technical Execution (Prong 2)
 ### Unique Cross-Domain Expertise
-Management Strategy: Formal management education and business analysis background
+- **Management Strategy**: Formal management education and business analysis background
 
-Systems Integration: Proven experience in complex system architecture and requirements analysis
+- **Systems Integration**: Proven experience in complex system architecture and requirements analysis
 
-AI Implementation: Certified AI practitioner with hands-on technical execution capabilities
+- **AI Implementation**: Certified AI practitioner with hands-on technical execution capabilities
 
-Healthcare Innovation: Comprehensive understanding of regulatory and clinical requirements
+- **Healthcare Innovation**: Comprehensive understanding of regulatory and clinical requirements
 
 ### Active Technical Development
 Core AI Engine → /ai-engine

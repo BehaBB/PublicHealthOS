@@ -173,5 +173,13 @@ Expected Results:
 ✅ FDA compliance framework operational
 
 ---
+## 📦 Releases
+
+### Current: [v0.1.0-MVP](https://github.com/BehaBB/PublicHealthOS/releases/tag/v0.1.0-MVP)
+- AI Risk Engine MVP
+- FDA Compliance Framework  
+- HIPAA-compliant Data Pipeline
+
+---
 
 *This repository demonstrates the technical execution capability and strategic planning behind the PublicHealthOS NIW petition. All development represents pre-market innovation with compliance-first architecture.*

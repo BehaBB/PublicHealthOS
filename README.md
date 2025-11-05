@@ -137,6 +137,16 @@ Recent Technical Achievements
 
 ✅ HIPAA compliance framework established
 
+### Technology Stack & Dependencies
+- **AI/ML Framework**: scikit-learn, pandas, numpy, joblib
+- **Backend API**: FastAPI, Uvicorn  
+- **Communication**: Twilio SMS API
+- **Testing & Validation**: pytest, custom validation scripts
+- **Documentation**: mkdocs, material theme
+- **Development**: black code formatter
+
+**Dependencies Management**: [`requirements.txt`](./requirements.txt)
+
 🤝 Strategic Partnership Opportunities
 For Healthcare Providers:
 

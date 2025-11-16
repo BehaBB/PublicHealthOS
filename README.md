@@ -79,6 +79,11 @@ graph TB
 
 - **Healthcare Innovation**: Comprehensive understanding of regulatory and clinical requirements
 
+### Management & Governance Evidence
+**Management Evidence**: `management/` - Project governance, hiring plans, system integration frameworks
+**Strategic Planning**: Business model canvas, decision records, performance metrics
+**Operational Readiness**: Risk management, compliance frameworks, stakeholder analysis
+
 ### Active Technical Development - Proof of Progress
 **Recent Development Activity:**
 - `6e224e2` - AI Risk Engine implementation (`/ai-engine/risk_prediction.py`)

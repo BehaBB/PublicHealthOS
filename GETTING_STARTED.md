@@ -3,29 +3,33 @@
 
 ### 🚀 5-Minute Setup
 
-1. **Clone Repository**
+### 1. **Clone Repository**
 ```bash
 git clone https://github.com/BehaBB/PublicHealthOS.git
 cd PublicHealthOS
-Install Dependencies
+```
+### Install Dependencies
 
-bash
+```bash
 cd ai-engine
 pip install pandas numpy scikit-learn
-Run AI Risk Engine
+```
+### Run AI Risk Engine
 
-bash
+```bash
 python risk_prediction.py
-✅ Expected Output: "AI Risk Engine initialized - NIW Technical Proof"
+```
+### ✅ Expected Output: "AI Risk Engine initialized - NIW Technical Proof"
 
-Generate Synthetic Data
+### Generate Synthetic Data
 
-bash
+```bash
 cd ../data-synthetic
 python generate_data.py
-✅ Expected Output: "Generated 1000 synthetic patient records"
+```
+### ✅ Expected Output: "Generated 1000 synthetic patient records"
 
-🧪 Verification Checklist
+### 🧪 Verification Checklist
 AI model initializes without errors
 
 Synthetic data generation works
@@ -34,7 +38,7 @@ All dependencies resolve correctly
 
 Basic prediction functionality operational
 
-📋 NIW Evidence Demonstrated
+### 📋 NIW Evidence Demonstrated
 ✅ Working Code - Not just theoretical
 
 ✅ Reproducible Results - Anyone can verify
@@ -98,3 +102,4 @@ def demonstrate_complete_pipeline():
 
 if __name__ == "__main__":
     demonstrate_complete_pipeline()
+```
